@@ -1,24 +1,5 @@
-theme: jekyll-theme-merlot
-.highlight {
-    background: white !important;
-}
-.blob-wrapper {
-    background: white;
-}
-pre {
-    background: white;
-}
-table.rouge-table {
-    background: white !important;
-}
-td.code {
-    background: white !important;
-}
-.blob-wrapper.data.type-typescript {
-}
-.blob-code {
-    background: white !important;
-}
-.blob-num {
-    background: white !important;
-}
+title: Tactile theme
+description: Tactile is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-tactile
